@@ -10,6 +10,7 @@ import { Badge } from "@/components/ui/badge";
 import { Search, Filter, X } from "lucide-react";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 
+
 // Sample NFT data (expanded for the explore page)
 const nftData = [
   {
